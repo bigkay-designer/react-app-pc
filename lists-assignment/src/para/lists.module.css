@@ -1,0 +1,27 @@
+.lists{
+    background-color: #eee;
+  }
+.div{
+  border: 1px solid #000;
+  background-color: lightblue;
+  padding: 20px;
+  margin: 20px 0 0 0;
+}
+.green {
+  background-color: green;
+}
+.fonts {
+  font-size: 50px;
+} 
+
+.names{
+  font-size: 30px;
+  text-transform: capitalize;
+}
+
+@media (min-width: 500px){
+  body{
+    width:530px;
+    margin: auto;
+  }
+  }
