@@ -1,0 +1,36 @@
+.main-div {
+  margin-top: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.main-div .test {
+  border: 1px solid grey;
+  padding: 10px 12px;
+  border-radius: 12px;
+}
+
+.main-div h1 {
+  text-transform: capitalize;
+}
+
+.main-div h1 span {
+  color: #5e5e5e;
+}
+
+.main-div input {
+  border-radius: 12px;
+  padding: 10px 5px;
+}
+/*# sourceMappingURL=content.css.map */

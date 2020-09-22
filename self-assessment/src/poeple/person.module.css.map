@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,IAAI,CAAA;EACA,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;EACV,QAAQ,EAAE,MAAM;CACnB;;AAED,AAAA,OAAO,CAAA;EACH,gBAAgB,EAAE,SAAS;EAC3B,OAAO,EAAE,SAAS;EAClB,KAAK,EAAE,GAAG;EACV,SAAS,EAAE,IAAI;EACf,MAAM,EAAE,cAAc;CACzB;;AAED,AAAA,MAAM,CAAA;EACF,UAAU,EAAE,IAAI;EAChB,SAAS,EAAE,IAAI;CAClB",
-    "sources": [
-        "person.module.scss"
-    ],
-    "names": [],
-    "file": "person.module.css"
-}
